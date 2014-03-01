@@ -36,6 +36,10 @@ App.SigninRoute = Em.Route.extend({
 </form>
 ```
 
+Example
+---
+
+    $ make example
 
 License
 ---
